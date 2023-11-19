@@ -9,3 +9,30 @@ All projects created in Snack are publicly available, so you can easily share th
 If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+
+
+## 1) [Meha Modi - 101371431]
+
+- Name :- Meha Modi
+- Student Id :- 101371431
+
+  
+## 2) [Kushal Patel -101378751]
+
+- Name :- Kushal Patel
+- Student Id :- 101378751
+
+
+
+## 3) [Vedant Sinh Gohel - 101398199]
+
+- Name :- Vedant Sinh Gohel
+- Student Id :- 101398199
+
+
+
+## 4) [Maharshi N Barot - 101380593]
+
+- Name :- Maharshi N Barot
+- Student Id :- 101380593
+
